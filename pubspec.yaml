@@ -5,7 +5,7 @@ repository: https://github.com/ggsuite/testproject_gg_1.git
 publish_to: none
 
 environment:
-  sdk: ">=3.3.0 <4.0.0"
+  sdk: ">=3.9.0 <4.0.0"
 
 dependencies:
   args: ^2.7.0
@@ -14,11 +14,11 @@ dependencies:
   gg_log: ^1.0.6
   gg_process: ^1.1.6
   path: ^1.9.0
-  testproject_gg_2:
-    git:
-      url: git@github.com:ggsuite/testproject_gg_2.git
-      tag_pattern: {{version}}
-    version: ^1.0.6
+  #testproject_gg_2:
+  #  git:
+  #    url: git@github.com:ggsuite/testproject_gg_2.git
+  #    tag_pattern: "{{version}}"
+  #  version: ^1.0.6
 dev_dependencies:
   gg_capture_print: ^1.0.9
   lints: ^6.0.0
