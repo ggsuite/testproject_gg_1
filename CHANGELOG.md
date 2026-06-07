@@ -11,6 +11,7 @@
 ### Changed
 
 - E2E publish test: touch README
+- gg\_multi: changed references to git
 
 ## [2.0.3] - 2026-04-24
 
