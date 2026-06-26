@@ -6,6 +6,12 @@
 
 - kidney: changed references to path
 
+## [2.3.1] - 2026-06-26
+
+### Changed
+
+- gg\_multi: changed references to git
+
 ## [2.3.0] - 2026-06-09
 
 ### Changed
@@ -57,6 +63,7 @@
 - kidney: changed references to git
 - kidney: changed references to pub.dev
 
+[2.3.1]: https://github.com/ggsuite/testproject_gg_1/compare/2.3.0...2.3.1
 [2.3.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.2.0...2.3.0
 [2.2.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.1.0...2.2.0
 [2.1.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.0.3...2.1.0
