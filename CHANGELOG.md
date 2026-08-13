@@ -1,84 +1,71 @@
 # Changelog
 
-## \[Unreleased\]
+## Unreleased
 
 ### Changed
 
 - kidney: changed references to path
+- Rework copyright headers
 
-## [2.3.2] - 2026-07-20
-
-### Changed
-
-- gg\_multi: changed references to git
-
-## [2.3.1] - 2026-06-26
+## 2.3.2 - 2026-07-20
 
 ### Changed
 
-- gg\_multi: changed references to git
+- gg_multi: changed references to git
 
-## [2.3.0] - 2026-06-09
+## 2.3.1 - 2026-06-26
 
 ### Changed
 
-- gg\_multi: changed references to git
+- gg_multi: changed references to git
+
+## 2.3.0 - 2026-06-09
+
+### Changed
+
+- gg_multi: changed references to git
 
 ### Fixed
 
-- test: gg\_typescript\_bugfixes E2E run on testproject\_gg\_1-3
+- test: gg_typescript_bugfixes E2E run on testproject_gg_1-3
 
-## [2.2.0] - 2026-06-08
+## 2.2.0 - 2026-06-08
 
 ### Changed
 
-- gg\_multi: changed references to git
+- gg_multi: changed references to git
 
-## [2.1.0] - 2026-06-07
+## 2.1.0 - 2026-06-07
 
 ### Changed
 
 - E2E publish test: touch README
-- gg\_multi: changed references to git
+- gg_multi: changed references to git
 - Gg Multi: changed references to pub.dev
 
-## [2.0.3] - 2026-04-24
+## 2.0.3 - 2026-04-24
 
 ### Changed
 
 - commit
 - Kidney: changed references to pub.dev
 
-## [2.0.2] - 2026-03-14
+## 2.0.2 - 2026-03-14
 
-## [2.0.0] - 2026-03-12
+## 2.0.0 - 2026-03-12
 
-## [1.0.5] - 2026-03-11
+## 1.0.5 - 2026-03-11
 
-## [1.0.4] - 2026-03-11
+## 1.0.4 - 2026-03-11
 
-## [1.0.3] - 2026-03-11
+## 1.0.3 - 2026-03-11
 
-## [1.0.2] - 2026-03-09
+## 1.0.2 - 2026-03-09
 
-## [1.0.1] - 2026-03-09
+## 1.0.1 - 2026-03-09
 
 ### Changed
 
 - test
 - kidney: changed references to git
 - kidney: changed references to pub.dev
-
-[2.3.2]: https://github.com/ggsuite/testproject_gg_1/compare/2.3.1...2.3.2
-[2.3.1]: https://github.com/ggsuite/testproject_gg_1/compare/2.3.0...2.3.1
-[2.3.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.2.0...2.3.0
-[2.2.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.1.0...2.2.0
-[2.1.0]: https://github.com/ggsuite/testproject_gg_1/compare/2.0.3...2.1.0
-[2.0.3]: https://github.com/ggsuite/testproject_gg_1/compare/2.0.2...2.0.3
-[2.0.2]: https://github.com/ggsuite/testproject_gg_1/compare/2.0.0...2.0.2
-[2.0.0]: https://github.com/ggsuite/testproject_gg_1/compare/1.0.5...2.0.0
-[1.0.5]: https://github.com/ggsuite/testproject_gg_1/compare/1.0.4...1.0.5
-[1.0.4]: https://github.com/ggsuite/testproject_gg_1/compare/1.0.3...1.0.4
-[1.0.3]: https://github.com/ggsuite/testproject_gg_1/compare/1.0.2...1.0.3
-[1.0.2]: https://github.com/ggsuite/testproject_gg_1/compare/1.0.1...1.0.2
-[1.0.1]: https://github.com/ggsuite/testproject_gg_1/tag/%tag
