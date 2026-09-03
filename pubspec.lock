@@ -500,17 +500,21 @@ packages:
   testproject_gg_2:
     dependency: "direct main"
     description:
-      path: "../testproject_gg_2"
-      relative: true
-    source: path
-    version: "1.1.0"
+      path: "."
+      ref: HEAD
+      resolved-ref: "2e8e2f467ed264f6b2b6606db82c999fe951afec"
+      url: "git@github.com:ggsuite/testproject_gg_2.git"
+    source: git
+    version: "1.2.0"
   testproject_gg_3:
-    dependency: "direct overridden"
+    dependency: transitive
     description:
-      path: "../testproject_gg_3"
-      relative: true
-    source: path
-    version: "1.3.0"
+      path: "."
+      ref: HEAD
+      resolved-ref: dfd3342dc3ff7fc4fdda2cb6b6d8f1d5805fed63
+      url: "git@github.com:ggsuite/testproject_gg_3.git"
+    source: git
+    version: "1.4.0"
   typed_data:
     dependency: transitive
     description:
