@@ -1,6 +1,10 @@
 # Changelog
 
-## Unreleased
+## 2.5.0 - 2026-09-03
+
+### Added
+
+- Add the current ggsuite DNA
 
 ### Changed
 
