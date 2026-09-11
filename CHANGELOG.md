@@ -5,6 +5,7 @@
 ### Added
 
 - Add e2e note
+- Add second e2e note
 
 ## 2.5.0 - 2026-09-03
 
