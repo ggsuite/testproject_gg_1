@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- Add e2e note
+
 ## 2.5.0 - 2026-09-03
 
 ### Added
